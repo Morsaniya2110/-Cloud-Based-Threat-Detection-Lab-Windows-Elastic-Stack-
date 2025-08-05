@@ -10,22 +10,6 @@ It integrates **Elastic Cloud**, a **Windows 10 endpoint**, and **custom Sigma d
 - Visualize security events in **Kibana dashboards**.
 - Validate detection capability through **real-world attack simulation**.
 ---
-## 📁 Project Structure
-```bash
-cloud-threat-lab/
-├── README.md                        # This file
-├── sysmon-config.xml               # Sysmon configuration
-├── filebeat.yml                    # Filebeat config for Elastic
-├── sigma-rules/                    # Custom Sigma rules
-│   └── credential-access.yml
-├── attacks/                        # Simulated attacks
-│   └── run-mimikatz.md
-├── dashboards/                     # Kibana dashboard export
-│   └── kibana-dashboard.ndjson
-├── threat-intel.md                 # External threat enrichment
-└── remediation-playbook.md        # Steps to mitigate threat
-```
----
 ## Technology Stack
 - **Windows 10 VM** – Endpoint generating security telemetry.
 - **Sysmon** – Advanced Windows logging for detailed process and network events.
@@ -44,6 +28,21 @@ cloud-threat-lab/
 4. **Visualization** – Kibana displays real-time graphs and event timelines.
 5. **Alerting** – Triggered detections send an automated Gmail notification.
 ---
+## 📁 Project Structure
+```bash
+cloud-threat-lab/
+├── README.md                        # This file
+├── sysmon-config.xml               # Sysmon configuration
+├── filebeat.yml                    # Filebeat config for Elastic
+├── sigma-rules/                    # Custom Sigma rules
+│   └── credential-access.yml
+├── attacks/                        # Simulated attacks
+│   └── run-mimikatz.md
+├── dashboards/                     # Kibana dashboard export
+│   └── kibana-dashboard.ndjson
+├── threat-intel.md                 # External threat enrichment
+└── remediation-playbook.md        # Steps to mitigate threat
+```
 ## 🎯 Detection Test – Mimikatz Credential Dumping
 As part of the lab validation, the **Mimikatz** tool was executed on the Windows VM to simulate credential theft.
 
