@@ -52,6 +52,14 @@ As part of the lab validation, the **Mimikatz** tool was executed on the Windows
 
 **Result:** Detection pipeline worked end-to-end, confirming the rule’s effectiveness.
 ---
+## 🧰 Commands to Execute
+```powershell
+cd C:\Tools\mimikatz
+.\mimikatz.exe
+privilege::debug
+sekurlsa::logonpasswords
+```
+---
 ## 📊 Capabilities Demonstrated
 - SIEM log ingestion, correlation, and storage in the cloud.
 - Custom detection engineering with Sigma.
