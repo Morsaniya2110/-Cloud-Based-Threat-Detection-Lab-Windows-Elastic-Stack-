@@ -27,6 +27,19 @@ It integrates **Elastic Cloud**, a **Windows 10 endpoint**, and **custom Sigma d
 3. **Threat Detection** – Sigma rules evaluate logs for malicious indicators.
 4. **Visualization** – Kibana displays real-time graphs and event timelines.
 5. **Alerting** – Triggered detections send an automated Gmail notification.
+
+cloud-threat-lab/
+├── README.md
+├── sysmon-config.xml
+├── filebeat.yml
+├── sigma-rules/
+│   └── credential-access.yml
+├── attacks/
+│   └── run-mimikatz.md
+├── dashboards/
+│   └── kibana-dashboard.ndjson
+├── threat-intel.md
+└── remediation-playbook.md
 ---
 ## 🎯 Detection Test – Mimikatz Credential Dumping
 As part of the lab validation, the **Mimikatz** tool was executed on the Windows VM to simulate credential theft.
