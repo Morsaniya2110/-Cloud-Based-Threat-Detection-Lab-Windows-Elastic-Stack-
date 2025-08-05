@@ -1,9 +1,9 @@
-#Cloud-Based Threat Detection Lab (Windows + Elastic Stack)
+## Cloud-Based Threat Detection Lab (Windows + Elastic Stack)
 
 ## Overview
 This lab project demonstrates how a **cloud-hosted SIEM (Security Information and Event Management)** environment can be used to detect and respond to cyber threats in real time.  
 It integrates **Elastic Cloud**, a **Windows 10 endpoint**, and **custom Sigma detection rules** to simulate enterprise-grade monitoring and alerting.
----
+
 ## Objectives
 - Centralize security log collection in a **scalable cloud platform**.
 - Detect high-risk behaviors using **custom-built Sigma rules**.
