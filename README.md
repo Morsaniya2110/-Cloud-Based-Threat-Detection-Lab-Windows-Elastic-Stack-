@@ -31,17 +31,15 @@ It integrates **Elastic Cloud**, a **Windows 10 endpoint**, and **custom Sigma d
 ## 📁 Project Structure
 ```bash
 cloud-threat-lab/
-├── README.md                        # This file
+├── README.md                       # This file
 ├── sysmon-config.xml               # Sysmon configuration
-├── filebeat.yml                    # Filebeat config for Elastic
+├── winlogbeat.yml                  # Filebeat config for Elastic
 ├── sigma-rules/                    # Custom Sigma rules
 │   └── credential-access.yml
 ├── attacks/                        # Simulated attacks
-│   └── run-mimikatz.md
+│   └── mimikatz.exe
 ├── dashboards/                     # Kibana dashboard export
 │   └── kibana-dashboard.ndjson
-├── threat-intel.md                 # External threat enrichment
-└── remediation-playbook.md        # Steps to mitigate threat
 ```
 ## 🎯 Detection Test – Mimikatz Credential Dumping
 As part of the lab validation, the **Mimikatz** tool was executed on the Windows VM to simulate credential theft.
