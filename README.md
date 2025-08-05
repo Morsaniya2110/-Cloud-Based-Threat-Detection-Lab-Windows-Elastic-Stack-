@@ -20,7 +20,7 @@ It integrates **Elastic Cloud**, a **Windows 10 endpoint**, and **custom Sigma d
 - **Gmail Alerts** – Email notifications for triggered detections.
 ---
 ## 📂 Architecture & Workflow
-![Lab Architecture](docs/screenshots/Cloud%20Threat%20Detection(Flowchart).png)
+![Lab Architecture](https://github.com/Morsaniya2110/-Cloud-Based-Threat-Detection-Lab-Windows-Elastic-Stack-/blob/main/Cloud%20Threat%20Detection(Flowchart).png)
 
 1. **Event Collection** – Sysmon captures system activity on the Windows VM.
 2. **Log Forwarding** – Elastic Agent securely transmits logs to Elastic Cloud.
