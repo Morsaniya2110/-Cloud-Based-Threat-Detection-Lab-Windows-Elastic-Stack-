@@ -49,8 +49,6 @@ As part of the lab validation, the **Mimikatz** tool was executed on the Windows
 - Custom Sigma rule matched and triggered.
 - Alert appeared in Kibana in near real time.
 - Automated Gmail notification sent to designated incident inbox.
-
-**Result:** Detection pipeline worked end-to-end, confirming the rule’s effectiveness.
 ---
 ## 🧰 Commands to Execute
 ```powershell
@@ -59,6 +57,8 @@ cd C:\Tools\mimikatz
 privilege::debug
 sekurlsa::logonpasswords
 ```
+---
+**Result:** Detection pipeline worked end-to-end, confirming the rule’s effectiveness.
 ---
 ## 📊 Capabilities Demonstrated
 - SIEM log ingestion, correlation, and storage in the cloud.
